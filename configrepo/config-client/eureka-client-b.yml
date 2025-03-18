@@ -9,3 +9,5 @@ spring:
       port: 5000
       username: admin
       password: admin
+
+message: Hi it is config client!
